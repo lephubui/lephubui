@@ -9,7 +9,7 @@
 ###
 
 <p align="left">I’m a software engineer with over seven years of experience in software development, firmware engineering, and cybersecurity.<br>
-  <br>🔭 I specialize in building scalable, secure solutions for networking and cloud systems, with a strong foundation in C++, Python, Java, real-time operating system and cloud platforms.
+  <br>🔭 I specialize in building scalable, secure solutions for networking and cloud systems, with a strong foundation in C++, C, Python, Java, and Javascripts as much as experienced with real-time operating system and cloud platforms.
   <br>📚 I hold an M.S. in Computer Science from the University of Idaho and a B.S. from the University of Washington.
   <br>⚡ In my free time I love coding and sharing computer science contents cross social media. </p>
 
@@ -35,6 +35,7 @@
 <h3 align="left">🛠 Software and Tools </h3>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Docker-A8B9CC?logo=Docker&logoColor=blue&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
