@@ -56,11 +56,15 @@
 </a>
 
 <a href="https://x.com/lephubui">
-  <img height="16" align="left" alt="X" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />
+  <img height="16" align="left" alt="X" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" />
+</a>
+
+<a href="https://leetcode.com/u/lebui99/">
+  <img height="16" align="left" alt="X" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" />
 </a>
 
 <a href="https://www.youtube.com/@CommandnCode">
-  <img height="16" align="left" alt="Youtube" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" />
+  <img height="16" align="left" alt="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />
 </a>
 
 <a href="https://www.instagram.com/commandncode/">
