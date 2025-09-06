@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+👩‍💻  [About Me](https://lephubui.com/)
 
 ###
 
@@ -15,7 +15,10 @@
 
 ###
 
-### 🍠[Playground](https://github.com/lephubui/command-code) to see my project in real time :rocket:
+### :rocket: [Command & Code](https://www.cclabs.dev/) to learn network security by doing: trigger attacks, deploy defenses, and observe packets in real time right in your browser
+###
+
+### 🍠[Playground](https://github.com/lephubui/command-code) to see my project in real time 
 ###
 
 ###
