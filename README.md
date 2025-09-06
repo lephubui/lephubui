@@ -1,6 +1,6 @@
 ## Welcome to Le's Hub 👋
 
-<h1 align="center">Command & Code</h1>
+<h1 align="center">Le P. Bui (ask Command & Code guy)</h1>
 
 ###
 
